@@ -1,0 +1,24 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "YelpCamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengyphan/yelpCamp.git"
+  },
+  "author": "Bengy Phan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengyphan/yelpCamp/issues"
+  },
+  "homepage": "https://github.com/bengyphan/yelpCamp#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "ejs-lint": "^0.3.0",
+    "express": "^4.17.1"
+  }
+}
