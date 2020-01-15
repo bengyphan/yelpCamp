@@ -13,3 +13,6 @@
     position: fixed;
     bottom: 0;
 }
+.delete-form{
+    display: inline;
+}
